@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1640868811 source:d:\stuff\c++ projects\pirates hide and seek 2.0\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<time.h>
+
+1641136157 source:d:\stuff\c++ projects\pirates hide and seek 3.0\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<time.h>
+
